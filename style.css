@@ -1,0 +1,61 @@
+<style>
+        #first{
+            color :whitesmoke ;
+            background-color: rgb(235, 5, 5);
+            width: 121px;
+            font-weight: 700;
+            font-family: cursive;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        h2{
+            color: yellow; 
+            background-color: black;
+            width: 400px;
+            height: 30px;
+
+        }
+        .utube{
+            color: red;
+            font-weight: 500;
+            
+        }
+        ul{
+            color: yellow;
+            border: 5px double crimson ;
+            border-radius: 20px;
+            margin: 30px;
+            background-color: darkgrey;
+            width: 400px;
+        
+        }
+        li{
+            color: maroon;
+            width: 200px;
+            text-align: left;
+            font-size: large;
+            font-weight: 600;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .other{
+            color: violet;
+            
+        }
+        .ip{
+            color: teal;
+            text-align: center;
+            width: 20%;
+            float: left;
+            border: 5px dotted skyblue;
+            background-color: gainsboro;
+            margin: 5px ;
+            padding: 20px;
+            border-radius: 20px;
+
+        }
+        
+            
+        }
+
+
+    </style>
